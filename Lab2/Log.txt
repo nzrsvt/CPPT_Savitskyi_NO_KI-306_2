@@ -1,0 +1,20 @@
+
+***Canon MF3010 - status ***
+Is on: false
+Able to print multicolour: true
+Ink level: 97
+Paper tray max capacity: 35
+Number of inserted sheets of paper: 0
+Scanner DPI: 1600
+Able to scan multicolour: true
+
+14 sheets of paper were inserted successfully.
+Printer was turned on successfully.
+Printing was successful!
+Sheets of paper remaining: 13
+Ink level: 96
+Scanning was successful!
+Printing was successful!
+Sheets of paper remaining: 12
+Ink level: 95
+New cartridge was put, paper tray was filled.
