@@ -1,0 +1,7 @@
+Printer was turned on successfully.
+New cartridge was put, paper tray was filled.
+Scanning was successful!
+The fax was successfully sent to the number: 766435
+Scanning was successful!
+The fax was successfully sent to the email: example@organisation.com
+Printer was turned off successfully.

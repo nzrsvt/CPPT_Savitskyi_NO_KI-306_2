@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"KI306.Savitskyi.Lab3","c":"MFPApp","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"KI306.Savitskyi.Lab3","c":"MFPApp","l":"MFPApp()","u":"%3Cinit%3E()"}];updateSearchResults();
